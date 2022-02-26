@@ -105,7 +105,7 @@ function M.load(file)
 
     local empty = false
 
-    if next(loaded_file) == nil then
+    if loaded_file == nil then
         if M.verbose then
             log("DefSave: Loaded file '" .. file .. "' is empty")
         end
