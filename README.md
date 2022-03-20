@@ -5,7 +5,7 @@ A module to help you save / load config and player data in your Defold projects 
 ## Installation
 You can use CoffeeSave in your own project by adding this project as a [Defold library dependency](http://www.defold.com/manuals/libraries/). Open your game.project file and in the dependencies field under project add:
 
-	https://github.com/subsoap/CoffeeSave/archive/master.zip
+	https://github.com/coffee-lady/CoffeeSave/archive/master.zip
 
 Once added, you must require the main Lua module in scripts via
 
